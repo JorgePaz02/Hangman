@@ -1,0 +1,5 @@
+beige
+magenta
+primrose
+khaki
+teal

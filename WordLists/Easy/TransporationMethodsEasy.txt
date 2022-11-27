@@ -1,0 +1,9 @@
+bus
+car
+ferry
+train
+airplane
+taxi
+rideshare
+ship
+boat
